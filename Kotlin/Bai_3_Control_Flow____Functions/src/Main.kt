@@ -1,8 +1,5 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    val age = 20;
-    println("Tôi năm  nay  $age tuổi" )
-    println("năm nay tôi ${age +1 } tuổi ")
-
+    String
 }
